@@ -11,3 +11,9 @@ npm run relay
 ```
 npm start
 ```
+
+## Deployment
+
+```
+npm run build
+```
